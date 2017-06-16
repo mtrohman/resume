@@ -33,7 +33,7 @@ html, body { height: 100%; overflow: hidden; }
 
 #section0 { background-color: #258c95; position: relative; min-width: 1280px; min-height: 660px; }
 
-.avatar { position: absolute; left: 30%; top: 15%; width: 210px; height: 210px; border-radius: 50%; background-image: url(../img/avatar.png); background-size: cover; background-repeat: no-repeat; border: 10px solid #aaa; cursor: pointer; }
+.avatar { position: absolute; left: 30%; top: 15%; width: 210px; height: 210px; border-radius: 50%; background-image: url(../img/yoshi.png); background-size: cover; background-repeat: no-repeat; border: 10px solid #aaa; cursor: pointer; }
 .avatar:hover { border: 10px solid #D6D6D6; box-shadow: 0 0 10px #D6D6D6; }
 
 .info { position: absolute; left: 50%; top: 18%; width: 400px; }
